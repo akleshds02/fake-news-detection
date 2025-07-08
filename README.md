@@ -17,8 +17,11 @@ A simple and interactive **Streamlit-based web application** that detects whethe
 ## Project Structure
 
 fake-news-detection/
+
 ├── app.py # Streamlit app script
+
 ├── fake_news_detector.ipynb # Jupyter Notebook - training & evaluation
+
 ├── Fake_news.jpg # Banner image used in app
 
 yaml
@@ -45,7 +48,6 @@ Download both `Fake.csv` and `True.csv` and place them in the same directory.
 2. Open fake_news_detector.ipynb in Jupyter and run all cells.
 
 ### Run the Web App (Streamlit) 
-
 1.Install Streamlit:
 ```bash
    pip install streamlit
