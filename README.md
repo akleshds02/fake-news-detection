@@ -46,16 +46,21 @@ Download both `Fake.csv` and `True.csv` and place them in the same directory.
 
 Run the Web App (Streamlit)
 1.Install Streamlit:
-
+```bash
    pip install streamlit
-
+```
 2.Run the app:
-
+```bash
    streamlit run app.py
-   
+ ```  
 The app will open in your browser at http://localhost:8501
 
-🖼️ Sample
+Sample
+### App UI
+![App Screenshot](App-screenshot.png)
+
+### Prediction Output Example
+![Output Screenshot](Output.png)
 
 💡 Author
 Aklesh D Shetty
