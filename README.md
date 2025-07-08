@@ -44,7 +44,7 @@ Download both `Fake.csv` and `True.csv` and place them in the same directory.
    pip install pandas numpy scikit-learn matplotlib
 2. Open fake_news_detector.ipynb in Jupyter and run all cells.
 
-###Run the Web App (Streamlit) 
+### Run the Web App (Streamlit) 
 
 1.Install Streamlit:
 ```bash
